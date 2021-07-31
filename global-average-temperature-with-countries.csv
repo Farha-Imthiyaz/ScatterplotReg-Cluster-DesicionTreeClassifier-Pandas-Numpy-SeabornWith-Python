@@ -1,0 +1,134 @@
+cartodb_id,the_geom,CountryName,Average_value,value_type,,Year
+2,,Aruba,-0.13,five_year_mean,,1850
+3,,Afghanistan,-0.12,annual_mean,,1851
+4,,Angola,-0.16,five_year_mean,,1852
+5,,Albania,-0.1,annual_mean,,1853
+6,,Andorra,-0.19,five_year_mean,,1854
+7,,Arab World,-0.21,annual_mean,,1855
+8,,United Arab Emirates,-0.21,five_year_mean,,1856
+9,,Argentina,-0.28,annual_mean,,1857
+10,,Armenia,-0.24,five_year_mean,,1858
+11,,American Samoa,-0.32,annual_mean,,1859
+12,,Antigua and Barbuda,-0.26,five_year_mean,,1860
+13,,Australia,-0.31,annual_mean,,1861
+14,,Austria,-0.27,five_year_mean,,1862
+15,,Azerbaijan,-0.33,annual_mean,,1863
+16,,Burundi,-0.27,five_year_mean,,1864
+17,,Belgium,-0.2,annual_mean,,1865
+18,,Benin,-0.27,five_year_mean,,1866
+19,,Burkina Faso,-0.12,annual_mean,,1867
+20,,Bangladesh,-0.26,five_year_mean,,1868
+21,,Bulgaria,-0.37,annual_mean,,1869
+22,,Bahrain,-0.26,five_year_mean,,1870
+23,,"Bahamas, The",-0.24,annual_mean,,1871
+24,,Bosnia and Herzegovina,-0.26,five_year_mean,,1872
+25,,Belarus,-0.27,annual_mean,,1873
+26,,Belize,-0.27,five_year_mean,,1874
+27,,Bermuda,-0.3,annual_mean,,1875
+28,,Bolivia,-0.26,five_year_mean,,1876
+29,,Brazil,-0.31,annual_mean,,1877
+30,,Barbados,-0.24,five_year_mean,,1878
+31,,Brunei Darussalam,-0.21,annual_mean,,1879
+32,,Bhutan,-0.22,five_year_mean,,1880
+33,,Botswana,-0.15,annual_mean,,1881
+34,,Central African Republic,-0.21,five_year_mean,,1882
+35,,Canada,-0.11,annual_mean,,1883
+36,,Central Europe and the Baltics,-0.18,five_year_mean,,1884
+37,,Switzerland,-0.28,annual_mean,,1885
+38,,Channel Islands,-0.17,five_year_mean,,1886
+39,,Chile,-0.16,annual_mean,,1887
+40,,China,-0.17,five_year_mean,,1888
+41,,Cote d'Ivoire,-0.09,annual_mean,,1889
+42,,Cameroon,-0.2,five_year_mean,,1890
+43,,"Congo, Dem. Rep.",-0.15,annual_mean,,1891
+44,,"Congo, Rep.",-0.23,five_year_mean,,1892
+45,,Colombia,-0.27,annual_mean,,1893
+46,,Comoros,-0.25,five_year_mean,,1894
+47,,Cabo Verde,-0.35,annual_mean,,1895
+48,,Costa Rica,-0.28,five_year_mean,,1896
+49,,Caribbean small states,-0.44,annual_mean,,1897
+50,,Cuba,-0.31,five_year_mean,,1898
+51,,Curacao,-0.28,annual_mean,,1899
+52,,Cayman Islands,-0.34,five_year_mean,,1900
+53,,Cyprus,-0.23,annual_mean,,1901
+54,,Czech Republic,-0.36,five_year_mean,,1902
+55,,Germany,-0.4,annual_mean,,1903
+56,,Djibouti,-0.38,five_year_mean,,1904
+57,,Dominica,-0.43,annual_mean,,1905
+58,,Denmark,-0.39,five_year_mean,,1906
+59,,Dominican Republic,-0.47,annual_mean,,1907
+60,,Algeria,-0.41,five_year_mean,,1908
+61,,East Asia & Pacific (excluding high income),-0.42,annual_mean,,1909
+62,,Early-demographic dividend,-0.41,five_year_mean,,1910
+63,,East Asia & Pacific,-0.44,annual_mean,,1911
+64,,Europe & Central Asia (excluding high income),-0.38,five_year_mean,,1912
+65,,Europe & Central Asia,-0.35,annual_mean,,1913
+66,,Ecuador,-0.34,five_year_mean,,1914
+67,,"Egypt, Arab Rep.",-0.34,annual_mean,,1915
+68,,Euro area,-0.32,five_year_mean,,1916
+69,,Eritrea,-0.16,annual_mean,,1917
+70,,Spain,-0.3,five_year_mean,,1918
+71,,Estonia,-0.11,annual_mean,,1919
+72,,Ethiopia,-0.29,five_year_mean,,1920
+73,,European Union,-0.34,annual_mean,,1921
+74,,Fragile and conflict affected situations,-0.27,five_year_mean,,1922
+75,,Finland,-0.4,annual_mean,,1923
+76,,Fiji,-0.27,five_year_mean,,1924
+77,,France,-0.26,annual_mean,,1925
+78,,Faroe Islands,-0.27,five_year_mean,,1926
+79,,"Micronesia, Fed. Sts.",-0.22,annual_mean,,1927
+80,,Gabon,-0.27,five_year_mean,,1928
+81,,United Kingdom,-0.27,annual_mean,,1929
+82,,Georgia,-0.26,five_year_mean,,1930
+83,,Ghana,-0.21,annual_mean,,1931
+84,,Gibraltar,-0.25,five_year_mean,,1932
+85,,Guinea,-0.28,annual_mean,,1933
+86,,"Gambia, The",-0.25,five_year_mean,,1934
+87,,Guinea-Bissau,-0.24,annual_mean,,1935
+88,,Equatorial Guinea,-0.24,five_year_mean,,1936
+89,,Greece,-0.28,annual_mean,,1937
+90,,Grenada,-0.23,five_year_mean,,1938
+91,,Greenland,-0.21,annual_mean,,1939
+92,,Guatemala,-0.22,five_year_mean,,1940
+93,,Guam,-0.1,annual_mean,,1941
+94,,Guyana,-0.21,five_year_mean,,1942
+95,,High income,-0.21,annual_mean,,1943
+96,,"Hong Kong SAR, China",-0.21,five_year_mean,,1944
+97,,Honduras,-0.21,annual_mean,,1945
+98,,Heavily indebted poor countries (HIPC),-0.19,five_year_mean,,1946
+99,,Croatia,-0.36,annual_mean,,1947
+100,,Haiti,-0.19,five_year_mean,,1948
+101,,Hungary,-0.15,annual_mean,,1949
+102,,IBRD only,-0.19,five_year_mean,,1950
+103,,IDA & IBRD total,-0.09,annual_mean,,1951
+104,,IDA total,-0.19,five_year_mean,,1952
+105,,IDA blend,-0.17,annual_mean,,1953
+106,,Indonesia,-0.18,five_year_mean,,1954
+107,,IDA only,-0.28,annual_mean,,1955
+108,,Isle of Man,-0.17,five_year_mean,,1956
+109,,India,-0.14,annual_mean,,1957
+110,,Not classified,-0.16,five_year_mean,,1958
+111,,Ireland,-0.2,annual_mean,,1959
+112,,"Iran, Islamic Rep.",-0.14,five_year_mean,,1960
+113,,Iraq,-0.15,annual_mean,,1961
+114,,Iceland,-0.12,five_year_mean,,1962
+115,,Israel,-0.03,annual_mean,,1963
+116,,Italy,-0.08,five_year_mean,,1964
+117,,Jamaica,-0.03,annual_mean,,1965
+118,,Jordan,-0.03,five_year_mean,,1966
+119,,Japan,-0.03,annual_mean,,1967
+120,,Kazakhstan,0.01,five_year_mean,,1968
+121,,Kenya,0.08,annual_mean,,1969
+122,,Kyrgyz Republic,0.05,five_year_mean,,1970
+123,,Cambodia,0.12,annual_mean,,1971
+124,,Kiribati,0.08,five_year_mean,,1972
+125,,St. Kitts and Nevis,0.09,annual_mean,,1973
+126,,"Korea, Rep.",0.11,five_year_mean,,1974
+127,,Kuwait,0.13,annual_mean,,1975
+128,,Latin America & Caribbean (excluding high income),0.11,five_year_mean,,1976
+129,,Lao PDR,0.25,annual_mean,,1977
+130,,Lebanon,0.09,five_year_mean,,1978
+131,,Liberia,0.12,annual_mean,,1979
+132,,Libya,0.06,five_year_mean,,1980
+133,,St. Lucia,-0.04,annual_mean,,1981
+134,,Latin America & Caribbean,0.02,five_year_mean,,1982

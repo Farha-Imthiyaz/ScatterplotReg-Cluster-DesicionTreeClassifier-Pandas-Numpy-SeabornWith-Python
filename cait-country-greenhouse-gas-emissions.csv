@@ -1,0 +1,189 @@
+field_1,Country,Year,Category,Emissions
+1,Afghanistan,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,15.21
+2,Albania,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,15.29
+3,Algeria,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,14.01
+4,Angola,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,14.03
+5,Antigua & Barbuda,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,13.99
+6,Argentina,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,14.33
+7,Armenia,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,15.32
+8,Australia,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,16.28
+9,Austria,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,17.12
+10,Azerbaijan,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,18
+11,"Bahamas, The",2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,16.5
+12,Bahrain,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,15.03
+13,Bangladesh,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,17.51
+14,Barbados,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,18.26
+15,Belarus,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,18.15
+16,Belgium,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,18.98
+17,Belize,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,19.62
+18,Benin,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,20.4
+19,Bhutan,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,23.64
+20,Bolivia,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,26.95
+21,Bosnia & Herzegovina,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,30.64
+22,Botswana,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,34.72
+23,Brazil,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,44.19
+24,Brunei,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,44.42
+25,Bulgaria,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,11.69
+26,Burkina Faso,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,9.12
+27,Burundi,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.87
+28,Cambodia,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.6
+29,Cameroon,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.14
+30,Canada,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.69
+31,Cape Verde,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.41
+32,Central African Republic,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.68
+33,Chad,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.92
+34,Chile,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.08
+35,China,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.37
+36,Colombia,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.35
+37,Comoros,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.99
+38,"Congo, Dem. Rep.",2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.4
+39,"Congo, Rep.",2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.48
+40,Cook Islands,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.25
+41,Costa Rica,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.15
+42,Cote d'Ivoire,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.19
+43,Croatia,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.96
+44,Cuba,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.03
+45,Cyprus,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.31
+46,Czech Republic,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.79
+47,Denmark,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.17
+48,Djibouti,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.31
+49,Dominica,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,90.73
+50,Dominican Republic,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,90.17
+51,Ecuador,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,90.32
+52,Egypt,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,98.36
+53,El Salvador,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,96.69
+54,Equatorial Guinea,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,98.75
+55,Eritrea,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,99.59
+56,Estonia,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,103.28
+57,Ethiopia,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,108.18
+58,European Union (15),1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,113.67
+59,European Union (28),2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,117.07
+60,Fiji,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,114.75
+61,Finland,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,121.48
+62,France,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,126.41
+63,Gabon,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,129.7
+64,"Gambia, The",2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,134.54
+65,Georgia,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,140.71
+66,Germany,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,148.68
+67,Ghana,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,153.69
+68,Greece,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,163.85
+69,Grenada,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,165.59
+70,Guatemala,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,171.75
+71,Guinea,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,175.88
+72,Guinea-Bissau,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,187.27
+73,Guyana,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,52.22
+74,Haiti,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,53.81
+75,Honduras,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,55.07
+76,Hungary,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,56.8
+77,Iceland,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,57.87
+78,India,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,63.2
+79,Indonesia,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,63.77
+80,Iran,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,64.53
+81,Iraq,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,67.64
+82,Ireland,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,67.68
+83,Israel,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,68.98
+84,Italy,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,73.87
+85,Jamaica,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,78.25
+86,Japan,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,89.93
+87,Jordan,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,95.73
+88,Kazakhstan,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,99.02
+89,Kenya,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,105.92
+90,Kiribati,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,119.12
+91,"Korea, Dem. Rep. (North)",2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,127
+92,"Korea, Rep. (South)",2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,137.17
+93,Kuwait,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,147.69
+94,Kyrgyzstan,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,151.12
+95,Laos,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,150.53
+96,Latvia,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,155.72
+97,Lebanon,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.42
+98,Lesotho,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.42
+99,Liberia,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.43
+100,Libya,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.45
+101,Lithuania,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.46
+102,Luxembourg,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.48
+103,"Macedonia, FYR",1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.5
+104,Madagascar,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.53
+105,Malawi,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.55
+106,Malaysia,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.58
+107,Maldives,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.59
+108,Mali,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.62
+109,Malta,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.66
+110,Mauritania,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.71
+111,Mauritius,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.75
+112,Mexico,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.78
+113,Moldova,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.82
+114,Mongolia,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.9
+115,Montenegro,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.93
+116,Morocco,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,0.99
+117,Mozambique,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,1.02
+118,Myanmar,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,1.03
+119,Namibia,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,1.07
+120,Nauru,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,1.1
+121,Nepal,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,233.1
+122,Netherlands,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,237.53
+123,New Zealand,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,241.88
+124,Nicaragua,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,242.05
+125,Niger,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,252.17
+126,Nigeria,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,253.81
+127,Niue,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,262.94
+128,Norway,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,266.91
+129,Oman,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,268.59
+130,Pakistan,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,275.34
+131,Palau,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,277.51
+132,Panama,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,271.28
+133,Papua New Guinea,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,263.98
+134,Paraguay,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,284.23
+135,Peru,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,299.12
+136,Philippines,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,302.67
+137,Poland,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,316.23
+138,Portugal,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,326.83
+139,Qatar,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,335.52
+140,Romania,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,319.77
+141,Russian Federation,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,320.16
+142,Rwanda,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,328.2
+143,Saint Kitts & Nevis,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,332.26
+144,Saint Lucia,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,334.24
+147,Saint Vincent & Grenadines,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,14.24
+148,Samoa,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.13
+149,Sao Tome & Principe,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.64
+150,Saudi Arabia,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.24
+151,Senegal,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.18
+152,Serbia,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.8
+153,Seychelles,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.75
+154,Sierra Leone,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.25
+155,Singapore,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.6
+156,Slovakia,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.73
+157,Slovenia,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.35
+158,Solomon Islands,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,5.77
+159,South Africa,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.13
+160,Spain,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,6.87
+161,Sri Lanka,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.01
+162,Sudan,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.81
+163,Suriname,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.38
+13627,Swaziland,2008,Total.CH4..MtCO2e.,85.58
+164,Sweden,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.25
+165,Switzerland,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.07
+166,Syria,2011,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,7.71
+167,Tajikistan,2012,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.6
+168,Tanzania,2013,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,8.59
+169,Thailand,1990,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,478.21
+170,Togo,1991,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,477.08
+171,Tonga,1992,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,477.08
+172,Trinidad & Tobago,1993,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,478.38
+173,Tunisia,1994,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,485.48
+174,Turkey,1995,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,493.13
+175,Turkmenistan,1996,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,495.63
+176,Uganda,1997,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,501.98
+177,Ukraine,1998,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,529.98
+178,United Arab Emirates,1999,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,566
+179,United Kingdom,2000,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,588.02
+180,United States,2001,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,594.77
+181,Uruguay,2002,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,593.98
+182,Uzbekistan,2003,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,537.1
+183,Vanuatu,2004,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,583.96
+184,Venezuela,2005,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,558.65
+185,Vietnam,2006,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,593.3
+186,World,2007,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,593.22
+187,Yemen,2008,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,573.52
+188,Zambia,2009,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,587.8
+189,Zimbabwe,2010,Total.GHG.Emissions.Excluding.Land.Use.Change.and.Forestry..MtCO2e.,561.62
